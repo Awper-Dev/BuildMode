@@ -1,0 +1,9 @@
+name: CoolaxBuildMode
+version: 0.1
+main: me.awperdev.BuildMode
+author: Marni
+depend: [WorldGuard]
+description: BuildMode
+commands:
+  buildmode:
+    usage: /<command>
